@@ -1,1 +1,1 @@
-# word-guesser
+# Word Guesser
