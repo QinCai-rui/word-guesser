@@ -6,7 +6,7 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 '''
 
-# Version 1.0.1
+# Version 1.0.1 beta
 # by Raymont 'QinCai' Qin. https://qincai.lovestoblog.com
 # Visit https://qincai.lovestoblog.com/feedback/ to provide feedback
 
