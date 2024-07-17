@@ -48,6 +48,7 @@ EIGHT_PLUS_LETTER_WORDS = [
     'Zealously'
 ]
 
+
 def create_clue(secret_word):
     """Initialize the clue with '?' for each letter in the secret word."""
     return ['?' for _ in range(len(secret_word))]
@@ -201,5 +202,5 @@ if __name__ == "__main__":
         lives, secret_word, hints = set_difficulty()
         curses.wrapper(main_loop, lives, secret_word, hints)
     except curses.error:
-        sys.exit('Error: This game requires a terminal to run. Please run it in a terminal environment.')
-
+        sys.exit('Error: This game requires a terminal to run. Please run it in a terminal environment. If you need help, please go to https://qincai.lovestoblog.com/feedback/')
+        
