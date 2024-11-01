@@ -238,7 +238,7 @@ def main_loop(stdscr, lives, secret_word, hints, guessed_letters, clue):
         stdscr.addstr(0, 0, 'Well done, you won! Thanks for playing!')
     else:
         stdscr.addstr(0, 0, f'You died! Try again next time. The word was: {secret_word}.')
-    stdscr.addstr(1, 0, 'Visit https://qincai.obl.ong/feedback/ to tell me if you discovered any issues/bugs.')
+    stdscr.addstr(1, 0, 'Visit https://qincai.xyz/feedback/ to tell me if you discovered any issues/bugs.')
     stdscr.refresh()
     time.sleep(10)
 
