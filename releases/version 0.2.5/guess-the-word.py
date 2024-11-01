@@ -7,8 +7,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 '''
 
 # Version 0.2.5
-# by Raymont 'QinCai' Qin. https://qincai.lovestoblog.com
-# Visit https://qincai.lovestoblog.com/feedback/ to provide feedback
+# by Raymont 'QinCai' Qin. https://qincai.xyz
+# Visit https://qincai.xyz/feedback/ to provide feedback
 # Licensed under the GNU General Public License v3.0.
 # See https://github.com/QinCai-rui/word-guesser/blob/main/LICENSE for more info
 
@@ -106,7 +106,7 @@ def main():
         print(f'You died! Try again next time. The word was: {secret_word}.')
     
     time.sleep(2)
-    print('Visit https://qincai.lovestoblog.com/feedback to tell me if you discovered any issues/bugs.')
+    print('Visit https://qincai.xyz/feedback to tell me if you discovered any issues/bugs.')
     time.sleep(5)
 
 if __name__ == "__main__":
