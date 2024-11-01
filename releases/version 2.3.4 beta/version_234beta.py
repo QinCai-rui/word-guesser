@@ -7,8 +7,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 """
 
 # Version 2.3.3 beta 
-# by Raymont 'QinCai' Qin. https://qincai.obl.ong
-# Visit https://qincai.obl.ong/feedback/ to provide feedback
+# by Raymont 'QinCai' Qin. https://qincai.xyz
+# Visit https://qincai.xyz/feedback/ to provide feedback
 # Licensed under the GNU General Public License v3.0.
 # For more information, visit https://github.com/QinCai-rui/word-guesser/blob/main/LICENSE
 
