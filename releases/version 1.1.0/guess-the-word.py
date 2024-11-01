@@ -7,8 +7,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 """
 
 # Version 1.1.1 beta
-# by Raymont 'QinCai' Qin. https://qincai.lovestoblog.com
-# Visit https://qincai.lovestoblog.com/feedback/ to provide feedback
+# by Raymont 'QinCai' Qin. https://qincai.xyz
+# Visit https://qincai.xyz/feedback/ to provide feedback
 
 import curses
 import time
@@ -124,7 +124,7 @@ def main_loop(stdscr):
         stdscr.addstr(0, 0, 'Well done, you won! Thanks for playing!')
     else:
         stdscr.addstr(0, 0, f'You died! Try again next time. The word was: {secret_word}.')
-    stdscr.addstr(1, 0, 'Visit https://qincai.lovestoblog.com/feedback/ to tell me if you discovered any issues/bugs.')
+    stdscr.addstr(1, 0, 'Visit https://qincai.xyz/feedback/ to tell me if you discovered any issues/bugs.')
     stdscr.refresh()
     time.sleep(10)
 
