@@ -7,7 +7,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 '''
 
 # Version 0.1.6
-# by Raymont 'QinCai' Qin. https://qincai.lovestoblog.com
+# by Raymont 'QinCai' Qin. https://qincai.xyz
 
 import time
 import random
@@ -63,12 +63,12 @@ if guessed_word_correctly:
     time.sleep(0.5)
     print('Well done, you won! Thanks for playing!')
     time.sleep(2)
-    print('Visit https://qincai.lovestoblog.com/feedback to tell me if you discovered any issues/bugs. ')
+    print('Visit https://qincai.xyz/feedback to tell me if you discovered any issues/bugs. ')
 else:
     time.sleep(0.5)
     print('You died! Try again next time. The word was: ' + secret_word + '. ')
     time.sleep(2)
-    print('Visit https://qincai.lovestoblog.com/feedback/ to tell me if you discovered any issues/bugs. ')
+    print('Visit https://qincai.xyz/feedback/ to tell me if you discovered any issues/bugs. ')
     
 time.sleep(5)
 quit()
